@@ -1,0 +1,4 @@
+conda install nodejs
+mkdir /projects/my_lovely_project
+cd /projects/my_lovely_project
+npm install react
